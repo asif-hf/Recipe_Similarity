@@ -1,0 +1,5 @@
+name: Recipe Similarity
+channels:
+  - conda forge
+ dependencies: 
+  - python = 3
